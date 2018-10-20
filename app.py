@@ -5,5 +5,6 @@ mychef = Chef()
 mychines_chef = Chines_chef()
 
 mychef.lunch()
+mychef.dinner()
 mychines_chef.noodles()
 mychines_chef.dinner()
